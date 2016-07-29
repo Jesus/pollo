@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: pollo
+        psr4_prefix: pollo
+        src_path: app

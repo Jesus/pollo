@@ -1,0 +1,8 @@
+.anim {
+	opacity: .9;
+}
+.anim:hover {
+	margin-top: -10px;
+	opacity: 1;
+	transition: all .3s;
+}
